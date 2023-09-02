@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning more about data. 
 - 🌱 I’m currently learning MySQL.
 - 💞️ I’m looking to collaborate on MySQL projects.
-- 📫 Feel free to reach out to me. 
+- 📫 Feel free to reach out to me https://www.linkedin.com/in/gaurigupta98/
