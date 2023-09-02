@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gaurigupta06
+- 👀 I’m interested in learning more about data. 
+- 🌱 I’m currently learning MySQL.
+- 💞️ I’m looking to collaborate on MySQL projects.
+- 📫 Feel free to reach out to me. 
